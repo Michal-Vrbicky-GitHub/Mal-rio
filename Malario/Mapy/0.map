@@ -1,0 +1,419 @@
+﻿Tutoriál
+
+
+SolidBlok
+šířka
+výska
+x
+y
+barva R,G,B,A 042,220,016,255
+T/F
+
+žebřik
+x
+y
+dékla
+
+
+*
+pozadi
+Anime_Pastel_Dream_old_arcade_game_mario_landscape_0.jpg
+*
+X
+5050
+*
+Y
+700
+*
+Malário
+100
+0
+*
+*Ten velkej
+SolidBlok
+5950
+500
+-1000
+222
+042,130,016,255
+*
+OBD
+5924
+100
+-1000
+244
+111,164,016,255
+true
+OBD
+5924
+378
+-1000
+344
+088,123,008,255
+true
+*
+žebřik
+4980
+222
+1000
+*
+string
+0000042216
+-852
+-123
+↓   ↓
+420
+string
+0000042216
+-666
+-42
+Životy      vzduchu
+95
+string
+0000042216
+277
+-150
+Kopy ve
+95
+string
+0000042216
+-482
+234
+Chodit šipkama     Vyhejbat se pastem
+95
+smajla
+-88
+188
+********************
+string
+0000042216
+888
+-142
+skákat šipkou, nebo mezerníkem
+42
+string
+0000042216
+888
+-99
+kop šipka dolu, nebo alt,
+42
+string
+0000042216
+888
+-56
+podržet směrovou, bez ní
+42
+string
+0000042216
+888
+-13
+silnější útok dolů
+42
+bodák
+1211
+222
+bodák
+1261
+222
+bodák
+1311
+222
+bodák
+1361
+222
+******************
+falešnej bodák
+2111
+222
+falešnej bodák
+2161
+222
+falešnej bodák
+2211
+222
+falešnej bodák
+2261
+222
+*
+string
+0000042216
+2000
+-282
+podle obtížnosti  
+42
+string
+0000042216
+2000
+-222
+se zobrazuje nápověda  
+42
+string
+0000042216
+2000
+-162
+pro dosah min 
+42
+BOOM
+2111
+42
+BOOM
+2161
+42
+BOOM
+2211
+42
+BOOM
+2261
+42
+BOOM
+2111
+-42
+BOOM
+2111
+-126
+BOOM
+2261
+-126
+BOOM
+2261
+-42
+***********************ctverec má 65
+ctverec
+2800
+170
+ctverec
+2800
+105
+ctverec
+2865
+170
+ctverec
+2865
+105
+*
+ctverec
+2930
+170
+ctverec
+2930
+105
+ctverec
+2995
+170
+ctverec
+2995
+105
+*
+ctverec
+2930
+40
+ctverec
+2930
+-25
+ctverec
+2995
+40
+ctverec
+2995
+-25
+*
+skrytej bodák
+3045
+222
+skrytej bodák
+3095
+222
+skrytej bodák
+3145
+222
+skrytej bodák
+3195
+222
+skrytej bodák
+3245
+222
+skrytej bodák
+3295
+222
+skrytej bodák
+3345
+222
+skrytej bodák
+3395
+222
+skrytej bodák
+3445
+222
+skrytej bodák
+3495
+222
+skrytej bodák
+3545
+222
+skrytej bodák
+3595
+222
+skrytej bodák
+3645
+222
+skrytej bodák
+3695
+222
+*skrytej bodák
+*3795
+*222
+skrytej bodák
+3745
+222
+string
+000042216
+3055
+160
+>XD
+64
+****
+img
+4442
+130
+Mine Turtle.png
+BOOM
+4542
+180
+heel
+4285
+180
+INVULNERABILITY
+4285
+18
+string
+000042216
+3909
+-52
+nezranitelnost
+32
+string
+000042216
+3909
+99
+          heal
+32
+*????????????????????????????????????????????????????????????90
+???
+4742
+142
+???
+4742
+52
+string
+000000000
+5123
+200
+Nic
+111
+skrytej bodák
+4740
+222
+skrytej bodák
+4795
+52
+skrytej bodák
+4852
+222
+*****************************dole
+SolidBlok
+5950
+500
+555
+1255
+085,107,047,255
+SolidBlok
+5950
+500
+555
+1300
+139,069,019,255
+string
+000000000
+5111
+1111
+Wall
+22
+string
+000000000
+5111
+1161
+Wall
+22
+string
+000000000
+5111
+1211
+Wall
+22
+string
+000000000
+5111
+1261
+Wall
+22
+string
+000000000
+5111
+1061
+Wall
+22
+string
+000000000
+5111
+1011
+Wall
+22
+string
+000000000
+5111
+961
+Wall
+22
+string
+000000000
+5111
+911
+Wall
+22
+*******************
+SocksInSandals
+4242
+1264
+2222
+4200
+SocksInSandals
+4444
+1264
+2222
+4200
+Tonk
+3333
+1264
+kanec
+1111
+976
+OBD
+777
+42
+555
+1300
+139,069,019,255
+true
+*
+string
+255165000000
+2929
+707
+Tonk má armor, použij útok dolů.
+76
+**když se dostanu nad tonk a ještě se neotočí, střílí šejdrem
+
+
+
+
+,
